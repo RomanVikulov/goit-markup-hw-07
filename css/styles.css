@@ -33,7 +33,6 @@ body {
   font-family: 'Roboto', sans-serif;
   background-color: var(--fon-color);
   color: var(--primary-text-color);
-
 }
 
 p,
@@ -88,7 +87,6 @@ button {
 
 .logo {
   color: #2196f3;
-
 }
 
 .logo-web {
@@ -104,7 +102,6 @@ button {
 
   background-color: var(--fon-color);
   border-bottom: 1px solid #ececec;
-
 }
 
 .container.header-nav {
@@ -143,7 +140,6 @@ button {
   width: 100%;
   background: var(--accent-color);
   border-radius: 2px;
-
 }
 
 
@@ -185,7 +181,6 @@ button {
 .header-list {
   display: flex;
   margin-left: auto;
-
 }
 
 .header-icons {
@@ -347,7 +342,6 @@ button {
 
   transition: border 250ms cubic-bezier(0.4, 0, 0.2, 1), fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
   cursor: pointer;
-
 }
 
 .modal-close:hover,
@@ -422,7 +416,6 @@ textarea {
   color: var(--primary-text-color);
   fill: currentColor;
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-
 }
 
 .form-group:focus-within .input-form,
@@ -528,7 +521,6 @@ textarea {
   background-color: var(--accent-color);
   border-radius: 4px;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
-
 }
 
 .btn-submit:hover,
@@ -628,7 +620,6 @@ textarea {
   width: 370px;
   height: 70px;
   background-color: var(--bgk-list-caption);
-
 }
 
 .about__paragraph {
@@ -639,7 +630,6 @@ textarea {
   text-align: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-
 }
 
 /* Команда */
@@ -769,7 +759,6 @@ textarea {
   align-items: center;
   border: 1px solid #AFB1B8;
   transition: border 250ms cubic-bezier(0.4, 0, 0.2, 1);
-
 }
 
 .clients-icon {
@@ -1009,7 +998,6 @@ textarea {
   background-color: var(--accent-color);
   color: var(--fon-color);
   box-shadow: var(--box-shadow-color);
-
 }
 
 /* Список проектов */
